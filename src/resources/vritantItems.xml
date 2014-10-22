@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:items xmlns:ns2="com.vritant">
+    <owner>Vritant</owner>
+    <item>
+        <name>item1</name>
+        <value>3</value>
+    </item>
+    <item>
+        <name>item2</name>
+        <value>5</value>
+    </item>
+</ns2:items>
